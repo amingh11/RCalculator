@@ -7,9 +7,10 @@ col1, col2, col3,col4,col5,col6 = st.columns([1,1,5,3,1,1])
 
 with col3:
     st.text('')
+    st.image("R Adams Shock Trauma.png")
     st.image("JH logo.jpg") 
 with col4:
-    st.image("R Adams Shock Trauma.png")
+    st.image("JH logo.jpg") 
 
 st.header('')
 
